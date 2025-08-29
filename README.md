@@ -16,7 +16,7 @@ Demonstrar habilidades de QA em:
 
 ## 📁 Estrutura de Arquivos
 SauceDemo-tests/
- ├── plano_de_testes.pdf
- ├── saucedemo_casos_de_teste.xlsx
- ├── saucedemo_relatorio_de_bugs.xlsx
- └── saucedemo_testes_manuais.pdf
+├── plano_de_testes.pdf
+├── saucedemo_casos_de_teste.xlsx
+├── saucedemo_relatorio_de_bugs.xlsx
+└── saucedemo_testes_manuais.pdf
