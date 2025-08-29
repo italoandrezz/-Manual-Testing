@@ -8,7 +8,6 @@ Este projeto contém exemplos de **testes manuais** aplicados à aplicação [Sa
 - **Relatório de Bugs** → Exemplos de defeitos encontrados, registrados em planilha, com severidade, prioridade e status.
 
 ## 🎯 Objetivo
-Demonstrar habilidades de QA em:
 - Planejamento de testes
 - Criação de casos de teste
 - Execução manual
