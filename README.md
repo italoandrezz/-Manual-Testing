@@ -18,7 +18,7 @@ Demonstrar habilidades de QA em:
 ```
 SauceDemo-tests/
 ├── 📄 plano_de_testes.pdf
-├── 📊 molhodemo_casos_de_teste.xlsx
+├── 📊 casos_de_teste.pdf
 ├── 🐞 molhodemo_relatorio_de_bugs.xlsx
 └── 📑 molhodemo_testes_manuais.pdf
 ```
