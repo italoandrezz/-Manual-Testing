@@ -15,8 +15,11 @@ Demonstrar habilidades de QA em:
 - Registro e priorização de bugs
 
 ## 📁 Estrutura de Arquivos
+```
 SauceDemo-tests/
 ├── 📄 plano_de_testes.pdf
 ├── 📊 molhodemo_casos_de_teste.xlsx
 ├── 🐞 molhodemo_relatorio_de_bugs.xlsx
 └── 📑 molhodemo_testes_manuais.pdf
+```
+
