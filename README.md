@@ -4,8 +4,8 @@ Este projeto contém exemplos de **testes manuais** aplicados à aplicação [Sa
 
 ## 📂 Estrutura
 - **Plano de Testes** → Documento com objetivo, escopo, ambiente e critérios de aceite.
-- **Casos de Teste** → Documentação em Excel e PDF, incluindo ID, pré-condições, passos, resultado esperado, prioridade e status.
-- **Relatório de Bugs** → Exemplos de defeitos encontrados, registrados em planilha, com severidade, prioridade e status.
+- **Casos de Teste** → Documentação em PDF, incluindo ID, pré-condições, passos, resultado esperado, prioridade e status.
+- **Relatório de Bugs** → Exemplos de defeitos encontrados, registrados em documento .pdf, com severidade, prioridade e status.
 
 ## 🎯 Objetivo
 - Planejamento de testes
