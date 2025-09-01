@@ -18,7 +18,6 @@ Este projeto contém exemplos de **testes manuais** aplicados à aplicação [Sa
 SauceDemo-tests/
 ├── 📄 Plano_de_Testes.pdf
 ├── 📊 casos_de_teste.pdf
-├── 🐞 relatorios_de_bugs.pdf
-└── 📑 testes_manuais.pdf
+└── 🐞 relatorios_de_bugs.pdf
 ```
 
